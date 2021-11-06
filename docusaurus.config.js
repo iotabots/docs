@@ -65,7 +65,7 @@ const config = {
             items: [
               {
                 label: 'Introduction',
-                to: '/intro',
+                to: '/',
               },
               {
                 label: 'FAQ',
