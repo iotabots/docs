@@ -25,7 +25,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/iotabots/docs/edit/main/docs/',
+          editUrl: 'https://github.com/iotabots/docs/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
