@@ -36,7 +36,7 @@ title: FAQ
 
 9. Who is the creator of IOTABOTS?
 > The creator is [iotaben](https://twitter.com/iotaben).
-> He is also the creator of the 
+> He is also the creator of the Soonaverse NF3. [Available]
 
 10. Why?
 > Just for fun!
