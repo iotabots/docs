@@ -13,7 +13,7 @@ title: FAQ
 > Has of February 2022, there have been 1000 + 38 IOTABOTS minted and 1001 Spacebots minted.
 
 3. Do you plan other drops?
-> Yes - soon!
+> Yes - soon! Join the [Discord server](https://discord.gg/hYaZveBYHn) to get the latest news!
 
 3. Where can I find information about the drops?
 > The best way is to follow us on [@iotabots Twitter](https://twitter.com/iotabots) account.
@@ -26,7 +26,7 @@ title: FAQ
 > No, they will be gone as soon as the Testnet is reseted, wich is every other day. But there is a initiative `#SaveTheBots`.
 
 6. What does `SaveTheBots` mean?
-> Current IOTABOTS are deployed on the tesnet. The `SaveTheBots` initiative tries to make a successfull transition - so the users can hold their IOTABOTS.
+> Current IOTABOTS are deployed on the testnet. The `SaveTheBots` initiative tries to make a successfull transition - so the users can hold their IOTABOTS.
 
 7. What can I do with them? 
 > Download the one you minted and use it as a profile picture.
