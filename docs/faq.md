@@ -13,7 +13,7 @@ title: FAQ
 > Has of February 2022, there have been 1000 + 38 IOTABOTS minted and 1001 Spacebots minted.
 
 3. Do you plan other drops?
-> Yes - soon!
+> Yes - soon! Join the [Discord server](https://discord.gg/hYaZveBYHn) to get the latest news!
 
 3. Where can I find information about the drops?
 > The best way is to follow us on [@iotabots Twitter](https://twitter.com/iotabots) account.
@@ -37,7 +37,7 @@ title: FAQ
 
 9. Who is the creator of IOTABOTS?
 > The creator is [iotaben](https://twitter.com/iotaben).
-> He is also the creator of the #SPACEBOTS, #SOONABOTS and participated in designing the SOONAVERSE NF3 Collection.
+> He is also the creator of the #SPACEBOTS, #SOONABOTS and participated in designing the SOONAVERSE NF3 Collection. [Available here](https://soonaverse.com/market/collections)
 
 10. Why?
 > Just for fun!
