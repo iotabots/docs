@@ -26,7 +26,7 @@ title: FAQ
 > No, they will be gone as soon as the Testnet is reseted, wich is every other day. But the initiative [SaveTheBots] (https://github.com/iotabots/save-the-bots) intends to progressively migrate IOTABOTS to the Shimmer Mainnet, then to the IOTA Mainnet.
 
 6. What does `SaveTheBots` mean?
-> Current IOTABOTS are deployed on the tesnet. The `SaveTheBots` initiative intends to migrate the IOTABOTS from the IOTA EVM Tesnet to the Shimmer Mainnet, then to the IOTA Mainnet so the users can hold their IOTABOTS.
+> Current IOTABOTS are deployed on the Testnet. The `SaveTheBots` initiative intends to migrate the IOTABOTS from the IOTA EVM Tesnet to the Shimmer Mainnet, then to the IOTA Mainnet so the users can hold their IOTABOTS.
 
 7. What can I do with them? 
 > Currently you can download the one you minted and use it as a profile picture.
