@@ -13,21 +13,21 @@ title: FAQ
 > As of the 3rd March 2022, there is :
 - 1048 IOTABOTS - The first 1000 IOTABOTS could be minted for free - the other was randomly choosen in Givaways mostly on Twitter.
 - 1001 Spacebots minted for free.
-- 3333 SOONABOTS that will be available for sale on [Soonaverse](https://soonaverse.com/collection/0xeb47806ef8d4c908179bd05eeabc20bc3de8c81a) on the 4th OF MARCH 2022.
+- 3333 SOONABOTS that are available for sale on [Soonaverse](https://soonaverse.com/collection/0xeb47806ef8d4c908179bd05eeabc20bc3de8c81a).
 
 3. How many NFTs will exist ?
 > 10.000 unique IOTABOTS.
 
 4. Do you plan other drops/sales?
 > More drops and sales are coming !
-> The SOONABOTS sale will take place on the 4th OF MARCH 2022 at 19:00 CET (10:00 AM PST) ! Check out the collection on [Soonaverse](https://soonaverse.com/collection/0xeb47806ef8d4c908179bd05eeabc20bc3de8c81a).
+> The SOONABOTS took place on the 4th OF MARCH 2022 at 19:00 CET (10:00 AM PST) ! Check out the collection on [Soonaverse](https://soonaverse.com/collection/0xeb47806ef8d4c908179bd05eeabc20bc3de8c81a).
 
 5. Is there a roadmap ?
 > You can check the roadmap by scrolling a bit on the [homepage](https://iotabots.io/)
 
 6. Where can I find information about the drops?
 > The best way is to follow us on [@iotabots Twitter](https://twitter.com/iotabots) account.
-> You can also join the [Discord server](https://discord.gg/hYaZveBYHn) and the [Soonaverse space](https://soonaverse.com/space/0x9dd831f7eed22ca73b254422baab74a8c460e438/overview).
+> You can also join the [Discord server](https://discord.gg/iotabots) and the [Soonaverse space](https://soonaverse.com/space/0x9dd831f7eed22ca73b254422baab74a8c460e438/overview).
 
 7. How can I paricipate on a NFT Drop? 
 > You need [MetaMask](https://metamask.io/) and have to be connected to the [public IOTA Smart Contract EVM Testnet](https://wiki.iota.org/wasp/guide/chains_and_nodes/testnet#interact-with-evm).
