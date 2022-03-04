@@ -59,9 +59,23 @@ title: FAQ
 
 > ⚠️ **Please be wary of any trading made outside of any reputable IOTA exchanges, Always verify before buying any NFT.** ⚠️
 
-14. Who is the creator of IOTABOTS?
+14. If we buy the digital version of the IOTABOTS TCG, will we receive NFT Cards ?
+> As of 4th MARCH 2022, it is indeed intended that whoever acquires the digital version of IOTABOTS TCG to receive the NFT Cards, but this is dependent on the progress of ISCP capabilities on Shimmer Mainnet/IOTA Mainnet.
+
+15. Will we be able to acquire different sets of cards ?
+> The first drop will consist of the base set which is the same for everyone and contains many essential cards to start playing.
+> The following drops will consist of booster card packs which content depends on the cards' rarity.
+
+16. Will some cards limited or rarer than others ?
+> As of 4th MARCH 2022, this is not decided yet. Cards may or may not be limited in number, be released multiple times, have different editions, etc.
+
+17. Will physical cards be connected to digital cards ?
+> As of 4th MARCH 2022, there is no connection between the physical set of cards and digital cards. Due to the difficulty to connect multiple physical cards to one NFT. 
+> This is subject to change depending on the progress of ISCP capabilities on Shimmer Mainnet/IOTA Mainnet.
+
+18. Who is the creator of IOTABOTS?
 > The creator is [iotaben](https://twitter.com/iotaben).
 > He is also the creator of the #SPACEBOTS, #SOONABOTS and participated in the SOONAVERSE NF3 Collection.
 
-15. Why?
+19. Why?
 > Just for fun!
