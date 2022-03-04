@@ -19,19 +19,3 @@ title: Trading Card Game
 - [Discord server](https://discord.gg/hYaZveBYHn)
 
 **Please bear in mind IOTABOTS TCG is still under development, so information on this page is subject to change !**
-
-FAQ
-
-0. If we buy the digital version of the IOTABOTS TCG, will we receive NFT Cards ?
-> It is indeed intended for whoever acquires the digital version of IOTABOTS TCG to receive the NFT Cards, but this is dependent on the progress of ISCP capabilities on Shimmer Mainnet/IOTA Mainnet.
-
-0. Will we be able to acquire different sets of cards ?
-> The first drop will consist of the base set which is the same for everyone and contains many essential cards to start playing.
-> The following drops will consist of booster card packs which content depends on the cards' rarity.
-
-0. Will some cards limited or rarer than others ?
-> As of 4th MARCH 2022, this is not decided yet. Cards may or may not be limited in number, be released multiple times, have different editions, etc.
-
-0. Will physical cards be connected to digital cards ?
-> As of 4th MARCH 2022, there is no connection between the physical set of cards and digital cards. Due to the difficulty to connect multiple physical cards to one NFT. 
-> This is subject to change depending on the progress of ISCP capabilities on Shimmer Mainnet/IOTA Mainnet.
