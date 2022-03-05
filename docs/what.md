@@ -18,6 +18,6 @@ There also have been 1001 SPACEBOTS dropped, which are simple unique games.
 
 A new type of bots, SOONABOTS are currently designed and will be distributed through the SOONAVERSE Marketplace.
 
-In the future, BOTS NFTs will give [special privileges] (https://twitter.com/iotabots/status/1498614525108490242) (yet to be determined) to their holders.
+In the future, BOTS NFTs will give [special privileges](https://twitter.com/iotabots/status/1498614525108490242) (yet to be determined) to their holders.
 
 The creator, [iotaben](https://twitter.com/iotaben), has been featured on the Moonaco Podcast. [Available Here](https://open.spotify.com/episode/3VabodTvoQZocdKEpF8dUU?si=30f9431dfc3f4d67).

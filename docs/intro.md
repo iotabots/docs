@@ -9,7 +9,7 @@ Welcome to the IOTABOTS Documentation. Here you can find all information about t
 
 
 - [What is IOTABOTS?](/what)
-- [Drop #0 - The First 500 Bots](/drops)
+- [List of drops and giveaways](/drops)
 - [Frequently Asked Questions - FAQ](/faq)
 
 ![](/img/iotabots_logo.png)
