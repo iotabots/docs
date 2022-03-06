@@ -16,7 +16,7 @@ In total, 1038 IOTABOTS have been minted. (including the one-off giveaways)
 
 There also have been 1001 SPACEBOTS dropped, which are simple unique games.
 
-A new type of bots, SOONABOTS are available for sale on [Soonaverse](https://soonaverse.com/collection/0xeb47806ef8d4c908179bd05eeabc20bc3de8c81a)..
+A new type of bots, SOONABOTS are available for sale on [Soonaverse](https://soonaverse.com/collection/0xeb47806ef8d4c908179bd05eeabc20bc3de8c81a).
 
 In the future, BOTS NFTs will give [special privileges](https://twitter.com/iotabots/status/1498614525108490242) (yet to be determined) to their holders.
 
