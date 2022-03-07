@@ -10,7 +10,7 @@ title: FAQ
 
 1. How many NFTs currently exist?
 > As of the 3rd March 2022, there is :
-- 1038 IOTABOTS - The first 1000 IOTABOTS could be minted for free - the other where randomly chosen in Giveaways mostly on Twitter.
+- 1038 IOTABOTS - The first 1000 IOTABOTS could be minted for free - the other were randomly chosen in Giveaways mostly on Twitter.
 - 1001 Spacebots minted for free.
 - 3333 SOONABOTS that are available for sale on [Soonaverse](https://soonaverse.com/collection/0xeb47806ef8d4c908179bd05eeabc20bc3de8c81a).
 
