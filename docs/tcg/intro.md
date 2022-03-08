@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4.5
+sidebar_position: 4.0
 slug: /tcg/intro
 title: Introductiion
 ---

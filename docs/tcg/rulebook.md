@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4.5
+sidebar_position: 4.1
 slug: /tcg/rulebook
 title: Rulebook
 ---
