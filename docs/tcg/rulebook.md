@@ -76,7 +76,7 @@ Before you lean how a IOTABOTS TRADING CARD GAME turn proceeds, it is important 
 
 ### 3. The Game Mat
 
-![game mat](https://user-images.githubusercontent.com/80335737/158676598-6b03af7d-8681-4676-81b2-0c4ce808ab6e.png)
+<img align="right" src="https://user-images.githubusercontent.com/80335737/158676598-6b03af7d-8681-4676-81b2-0c4ce808ab6e.png" width="50%" height="50%">
 
 The Game Mat is made of 4 zones : 
 
@@ -107,18 +107,17 @@ Two main card types are used in IOTABOTS TRADING CARD GAME: Bot Cards and Buzz C
 
 In all cases where the rules in the rulebook conflict with the rules on a IOTABOTS TRADING CARD GAME game card, the rules on the card have priority.
 
-
 **BOT CARDS**
 
 A Bot Card is the basic card used to attack your opponent. Bot Cards are identified by the GREEN light effects on the edges and borders of the card. To Summon a Bot you have to pay Mana except if a Bot has a Mana Cost of 0. The Mana Cost for each Bot Card is declared by the number in the blue colored gem in the top right corner. For details on introducing the Bot Cards into play see Main Phase 1 .
 
-![Hunter Bot copy](https://user-images.githubusercontent.com/80335737/158676925-4e52fd97-40d9-4ab9-b3c8-e31e489fdcb9.png)
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/80335737/158676925-4e52fd97-40d9-4ab9-b3c8-e31e489fdcb9.png" width="25%" height="25%"></p>
 
 **BOT EFFECTS**
 
 Some Bot Cards have effects. The broad range of Effects are devided into the types listed on the following page. For details regarding the effects, refer to the instructions printed on each individual card.
 
-![Mid Bot copy](https://user-images.githubusercontent.com/80335737/158676977-3bdb3491-6ec0-4491-92f3-1c21d396c14d.png)
+<p align="center"> <img src="https://user-images.githubusercontent.com/80335737/158676977-3bdb3491-6ec0-4491-92f3-1c21d396c14d.png" width="25%" height="25%"></p>
 
 - *Continuous Effect* : As long as this Bot Card is on the field, its effect remains active.
 - *Ignition Effect* : You can use this effect by declaring its activation. You can normally activate this effect during your Main Phase. There are some cards which need a cost to activate, such as discarding cards from your hand or tributing a bot on your side of the field. Because you can choose when to activate this effect, it is easy to make a combo with it.
@@ -131,13 +130,13 @@ Token are used IN PLACE of Bot Cards. The Token represent Bots that appear on th
 
 When put into play, Token are placed on the Bot Zone of the Game Mat. When destroyed, Token are returned to a player's hand by card effects, they are also removed from the field. Token count toward the 5-card Bot Card Zone limit.
 
-![Token copy](https://user-images.githubusercontent.com/80335737/158677025-fd3c69b6-7d8f-4499-a085-1bfe6fd5b642.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/80335737/158677025-fd3c69b6-7d8f-4499-a085-1bfe6fd5b642.png" width="25%" height="25%"></p>
 
 **BUZZ CARDS**
 
 Buzz Cards can only be activated during Main Phases. Buzz Cards are identified by the YELLOW light effects on the edges and borders of the card. To activate a Buzz Card you have to pay Mana except if a Buzz Card has a Mana Cost of 0. The Mana Cost for each Buzz Card is declared by the number in the blue colored gem in the top right corner. Once the effect of a Buzz Card is resolved you must put it face-up on the Junk Zone.
 
-![Destruction copy](https://user-images.githubusercontent.com/80335737/158677054-df395104-34b8-430a-a5d1-78fd4b59bd48.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/80335737/158677054-df395104-34b8-430a-a5d1-78fd4b59bd48.png" width="25%" height="25%"></p>
 
 **MANA**
 
@@ -164,7 +163,7 @@ Phases define the order in which actions can be undertaken by a player during th
 **Step**
 A sub-category of a phase. This is only used in the Battle Phase.
 
-![attack phase-01](https://user-images.githubusercontent.com/80335737/158677176-895b3229-daed-4e48-837f-5a45b8619c31.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/80335737/158677176-895b3229-daed-4e48-837f-5a45b8619c31.png" width="50%" height="50%"></p>
 
 **DRAW PHASE**
 During this phase, you are required to draw 1 card from the top of your Deck. A player who is out of cards and unable to draw during this phase is declared the loser.
@@ -209,7 +208,7 @@ Announce that you are going into Battle Phase.
 
 2. Battle Step
 
-![Battle Step-02](https://user-images.githubusercontent.com/80335737/158677235-9812c48c-a1d6-4292-ad46-4749730f5917.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/80335737/158677235-9812c48c-a1d6-4292-ad46-4749730f5917.png" width="50%" height="50%"></p>
 
 During their respective turns, players are allowed 1 attack for every Bot on the field. However, a single Bot can only attack once per turn. The attacking player chooses 1 of their Bots and designates 1 of the opponents Bots or the opponents Life points as a target. Play then proceeds immediately to the Damage Step, returning to the Battle Step if the attacking player wishes to attack again with another Bot.
 
@@ -225,14 +224,14 @@ Upon completion of the Damage Step, return to the Battle Step if the Attacking p
 When attacking a Bot the defense points of the defending Bot are subtracted by the attack points of the attacking Bot. If the difference is <=0 the defending Bot is destroyed. The difference is also deducted from the Life Points of the defending player.
 If the difference is >0 nothing happens, effects may get triggered.
 
-![Determining damage](https://user-images.githubusercontent.com/80335737/158677485-fc4d0aca-62ec-4bfa-b539-5528a6ee3af1.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/80335737/158677485-fc4d0aca-62ec-4bfa-b539-5528a6ee3af1.png" width="50%" height="50%"></p>
 
 1 - 3 = -2 = Tri Bot gets destroyed & Tri Bot Player looses 2 Lifepoints (-2 <= 0).
 
 At the same time the defend points of the attacking Bot are subtracted by the attack points of the defending bot. If the difference is <=0 the attacking Bot is destroyed. The difference is also deducted from the Life Points of the attacking player.
 If the difference is >0 nothing happens, effects may get triggered.
 
-![Determining damage](https://user-images.githubusercontent.com/80335737/158677621-b635d1ae-bd44-46aa-b8ee-c65ae3f5cc5a.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/80335737/158677621-b635d1ae-bd44-46aa-b8ee-c65ae3f5cc5a.png" width="50%" height="50%"></p>
 
 3 - 2 = 1 = nothing happens to the Chroma Bot & Chroma Bot Player (1 > 0).
 
