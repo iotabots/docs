@@ -10,8 +10,9 @@ Welcome to the IOTABOTS Documentation. Here you can find all information about t
 
 - [What is IOTABOTS?](/what)
 - [List of drops and giveaways](/drops)
+- [Trading Card Game](tcg/intro)
+- [Tokenomics](tokenomics/intro)
+- [Jobs](/jobs)
 - [Frequently Asked Questions - FAQ](/faq)
 
 ![](/img/iotabots_logo.png)
-
-
