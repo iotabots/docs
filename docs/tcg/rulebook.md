@@ -130,7 +130,7 @@ Token are used IN PLACE of Bot Cards. The Token represent Bots that appear on th
 
 When put into play, Token are placed on the Bot Zone of the Game Mat. When destroyed, Token are returned to a player's hand by card effects, they are also removed from the field. Token count toward the 5-card Bot Card Zone limit.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/80335737/158677025-fd3c69b6-7d8f-4499-a085-1bfe6fd5b642.png" width="25%" height="25%"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/80335737/158677025-fd3c69b6-7d8f-4499-a085-1bfe6fd5b642.png" width="25%" height="25%" /></p>
 
 **BUZZ CARDS**
 
