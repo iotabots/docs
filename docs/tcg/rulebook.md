@@ -231,8 +231,6 @@ If the difference is >0 nothing happens, effects may get triggered.
 At the same time the defend points of the attacking Bot are subtracted by the attack points of the defending bot. If the difference is <=0 the attacking Bot is destroyed. The difference is also deducted from the Life Points of the attacking player.
 If the difference is >0 nothing happens, effects may get triggered.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/80335737/158677621-b635d1ae-bd44-46aa-b8ee-c65ae3f5cc5a.png" width="50%" height="50%" /></p>
-
 3 - 2 = 1 = nothing happens to the Chroma Bot & Chroma Bot Player (1 > 0).
 
 When attacking the Life points of a player the Life points are subtracted by the attack points of the attacking Bot.
