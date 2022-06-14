@@ -13,8 +13,10 @@ title: Introduction
 
 > The TCG combines mechanics from renowned card games to offer both a casual game for and a hardcore experience for those willing to search for the best meta moves. Easy to play but hard to master !
 > Games last between 20-40 minutes on average, the full Book of rules is still being finalized.
+> 
+> The first edition of the TCG base set [went on sale](https://shop.iotashops.com/shop/collectible/iotabots-trading-card-game-limited-edition/) on iotashops.com on June 3rd 2022. 420 sets were up for sale. They sold out under one hour !
 
-> Be sure to check IOTABOT social media for info !
+> There is more to come. Be sure to check IOTABOT social media for info !
 - [@iotabots Twitter](https://twitter.com/iotabots)
 - [Discord server](https://discord.gg/iotabots)
 

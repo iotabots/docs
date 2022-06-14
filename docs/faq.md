@@ -9,14 +9,15 @@ title: FAQ
 ## General questions
 
 1. How many NFTs currently exist?
-> As of the 3rd March 2022, there is :
+> As of the 14th June 2022, there is :
 - 1038 IOTABOTS - The first 1000 IOTABOTS could be minted for free - the other were randomly chosen in Giveaways mostly on Twitter.
 - 1001 Spacebots minted for free.
 - 3333 SOONABOTS that are available for sale on [Soonaverse](https://soonaverse.com/collection/0xeb47806ef8d4c908179bd05eeabc20bc3de8c81a).
+- 999 RUNBOTS available to mint for SOONABOTS holders on [Soonaverse](https://soonaverse.com/collection/0x730bc88f5f98f1448eb2f5acdf1b32ffe6f27bc0).
 
 2. Do you plan other drops/sales?
 > More drops and sales are coming !
-> The SOONABOTS took place on the 4th OF MARCH 2022 at 19:00 CET (10:00 AM PST) ! Check out the collection on [Soonaverse](https://soonaverse.com/collection/0xeb47806ef8d4c908179bd05eeabc20bc3de8c81a).
+> The SOONABOTS sale took place on the 4th OF MARCH 2022 at 19:00 CET (10:00 AM PST) ! Check out the collection on [Soonaverse](https://soonaverse.com/collection/0xeb47806ef8d4c908179bd05eeabc20bc3de8c81a).
 
 3. Is there a roadmap ?
 > You can check the roadmap by scrolling a bit on the [homepage](https://iotabots.io/)
@@ -31,10 +32,13 @@ title: FAQ
 6. Where will I be able to trade my IOTABOTS ?
 > Trading will take place on marketplaces (e.g. SOONAVERSE Marketplace) and is therefore dependent on the marketplace's roadmaps' advancement.
 
-7. Can I buy IOTABOTS listed on marketplaces such as Opensea, Tothemoon, Rarible, etc. ?
-> As of the 3rd March 2022, no marketplaces supports IOTABOTS NFTs trading.
+7. Can I buy IOTABOTS NFTs listed on marketplaces such as Opensea, Tothemoon, Rarible, etc. ?
+> As of the 14th June 2022, no marketplaces supports IOTABOTS or Spacebots NFTs trading.
+> However, both SOONABOTS and RUNBOTS are currently tradeable on Soonaverse.com :
+- [SOONABOTS Collection](https://soonaverse.com/collection/0xeb47806ef8d4c908179bd05eeabc20bc3de8c81a).
+- [RUNBOTS Collection](https://soonaverse.com/collection/0x730bc88f5f98f1448eb2f5acdf1b32ffe6f27bc0).
 
-> ⚠️ **Please be wary of any trading made outside of any reputable IOTA exchanges, Always verify before buying any NFT.** ⚠️
+> ⚠️ **Please be wary of any trading made outside of any reputable IOTA marketplace, Always verify before buying any NFT.** ⚠️
 
 8. Who is the creator of IOTABOTS?
 > The creator is [iotaben](https://twitter.com/iotaben).
@@ -67,11 +71,11 @@ title: FAQ
 
 7. What can I do with them? 
 > Currently you can download the one you minted and use it as a profile picture.
+> Owning a IOTABOT also gives you access to a [secret channel](https://twitter.com/iotabots/status/1506634367040462852) on the IOTABOTS discord !
 > In the future, IOTABOTS will give [special privileges](https://twitter.com/iotabots/status/1498614525108490242) (yet to be determined) to their holders
 
 8. How much do they cost? 
 > IOTABOTS and Spacebots were freely minted and distributed. There is no need to have any tokens to claim the NFTs (Yes, thats the beauty of #IOTA).
-> SOONABOTS were listed for sale at a starting price of 100 Miota on [Soonaverse](https://soonaverse.com/collection/0xeb47806ef8d4c908179bd05eeabc20bc3de8c81a).
 
 ## SOONABOTS
 
@@ -86,6 +90,7 @@ title: FAQ
 
 4. What can I do with them? 
 > Currently you can download the one you minted and use it as a profile picture.
+> Just like with IOTABOTS, SOONABOTS [grant you access](https://twitter.com/iotabots/status/1519301475364651008) to the secret channel on discord
 > In the future, SOONABOTS will give [special privileges](https://twitter.com/iotabots/status/1498614525108490242) (yet to be determined) to their holders
 
 5. How can I download the animated version of my SOONABOTS ?
@@ -103,7 +108,7 @@ title: FAQ
 ## IOTABOTS TCG
 
 1. What is the IOTABOTS TCG ?
-> IOTABOTS TCG is a full-fledged trading card game (like Yu-Gi Oh, Magic The Gatheting, Hearthstone) based on elements from the IOTABOTS Metaverse. Physical cards are currently in development, while digital TCG and NFTs are still in the concept phase. **Collect, trade, play & earn !**
+> IOTABOTS TCG is a full-fledged trading card game (like Yu-Gi Oh, Magic The Gatheting, Hearthstone) based on elements from the IOTABOTS Metaverse. The first print of the base set [went on sale](https://shop.iotashops.com/shop/collectible/iotabots-trading-card-game-limited-edition/) on iotashops.com on June 3rd 2022. Digital TCG and NFTs are still in the concept phase. **Collect, trade, play & earn !**
 
 2. If we buy the digital version of the IOTABOTS TCG, will we receive NFT Cards ?
 > It is indeed intended that whoever acquires the digital version of IOTABOTS TCG to receive the NFT Cards, but this is dependent on the progress of ISCP capabilities on Shimmer Mainnet/IOTA Mainnet. **Please keep in mind that digital TCG and NFTs are still in the concept phase and subject to change**.
@@ -113,8 +118,8 @@ title: FAQ
 > This is subject to change depending on the progress of ISCP capabilities on Shimmer Mainnet/IOTA Mainnet.
 
 4. Will we be able to acquire different sets of cards ?
-> The first drop will consist of the base set which is the same for everyone and contains many essential cards to start playing.
+> The first edition of the TCG base set [went on sale](https://shop.iotashops.com/shop/collectible/iotabots-trading-card-game-limited-edition/) on iotashops.com on June 3rd 2022. 420 sets were up for sale. They sold out under one hour !
 > The following drops will consist of booster card packs which content depends on the cards' rarity.
 
-5. Will some cards limited or rarer than others ?
-> As of 4th MARCH 2022, this is not decided yet. Cards may or may not be limited in number, be released multiple times, have different editions, etc.
+5. Will some cards be limited or rarer than others ?
+> This is not decided yet. Cards may or may not be limited in number, be released multiple times, have different editions, etc.

@@ -71,7 +71,7 @@ In accordance with the Official Rules, a Duel is conducted in the following mann
 - Whoever wins the coin toss can decide to go first or second. For subsequent Duels in the Match, the loser of the previous Duel decides who starts first. If the previous Duel ended in a tie, re-toss a coin to determine who starts first in the next Duel.
 - Finally, each player draws 3 cards from the top of their respective Decks. Once both players have 3 cards in their hand, both can decide if they want to keep their respective hands or put them back in the Deck, shuffle and draw again. A player can choose to do so two times, after that he must keep his hand. Then the Duel begins, following the rules in Phases of Gameplay.
 
-Before you lean how a IOTABOTS TRADING CARD GAME turn proceeds, it is important to fully understand the Game Mat and game cards. Understanding how each type of cards works will help you plan strategies to ensure that you will emerge from the Match victorious!
+Before you learn how a IOTABOTS TRADING CARD GAME turn proceeds, it is important to fully understand the Game Mat and game cards. Understanding how each type of cards works will help you plan strategies to ensure that you emerge from the Match victorious!
 
 
 ### 3. The Game Mat
@@ -254,3 +254,19 @@ Announce the end of your turn. If your hand contains more than 5 Cards, discard 
 **END OF THE DUEL**
 
 Repeat Phases 1 through 6 in alternating turns until a winner is decided.
+
+### 6. EDGE CASES
+
+**CONTROLLING AN OPPONENTS BOT**
+
+Certain Buzz Cards and Bot Effects have the effect of giving you control over an opponents Bot. When this occurs, use the following rules:
+
+When you take control of an opponents Bot, move the Bot Card to your own Bot Card Zone. Treat it as if it’s your own card for the duration of the effect. If this Bot Card has an effect you can activate it if requirements are met. 
+
+A Bot you control counts towards your 5 card Bot Card Zone limit. Therefore, you cannot take control of an opponents Bot if your Bot Card Zone is filled. 
+
+Bot Cards under your control can be used in the same way as your own Bot Cards: to attack, defend, or to use as a Tribute. Controlled Bot Cards destroyed or Tributed are sent to your opponent’s Junk Zone.
+
+**WHAT TO DO WHEN RULES ARE CONFLICTING ?**
+
+If rules on a card are conflicting with the rulebook, you have to follow the effects on the card rather than the rulebook.
