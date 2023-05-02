@@ -68,13 +68,13 @@ Here is a step by step guide, how to get some EGGS:
 
 To join the "Hack the EGGS" challenge, follow these steps:
 
-1.  Make sure you have a compatible Ethereum wallet with enough Ether to cover the game fee and gas fees.
+1.  Make sure you have a compatible wallet with enough Testnet SMR to cover the game fee and gas fees.
 2.  Connect your wallet to a user interface that supports interactions with smart contracts, such as Remix or a custom Dapp.
 3.  Ensure that you have the appropriate CryptoHeros tokens in your wallet to participate in the game.
 4.  Interact with the Game contract using its deployed address, and call the `createSingleGame` function with the following parameters:
     - `_tokenId`: The ID of the CryptoHeros token you wish to use for the game.
     - `_bet`: Your move in the game, represented by an integer (0, 1, or 2).
-5.  Pay the required game fee (1 ether) to participate in the game.
+5.  Pay the required game fee (1 SMR) to participate in the game.
 6.  Wait for the game to conclude, and check the emitted `gamePlayed` event to determine the winner and the moves played.
 
 Advanced Participation: Using Scripts or Smart Contracts
