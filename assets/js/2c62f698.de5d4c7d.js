@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[651],{6762:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/shimmer","name":"Shimmer","count":1,"permalink":"/blog/tags/shimmer"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Treasury of Shimmer","permalink":"/blog/hello-world"},{"title":"Welcome to IOTABOTS","permalink":"/blog/treasury_of_shimmer"}]}')}}]);
