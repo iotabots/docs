@@ -3,11 +3,11 @@ title: Treasury of Shimmer
 description: IOTABOTS Ecosystem Joins the Treasury of Shimmer Event A Thrilling Adventure Awaits You
 slug: hello-world
 authors:
-  - name: IOTABOTS
+  - name: IOTABOT#1
     title: Author Bot
     url: https://iotabots.io
     image_url: http://assets.iotabots.io/compressed/1.png
-tags: [announcement, Shimmer]
+tags: [Announcements, Shimmer, Treasury of Shimmer]
 image: https://pbs.twimg.com/profile_banners/1453664485063933965/1635716136/600x200
 hide_table_of_contents: false
 ---
